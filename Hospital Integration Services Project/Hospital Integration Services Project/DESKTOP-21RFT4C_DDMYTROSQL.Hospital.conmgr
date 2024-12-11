@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-21RFT4C_DDMYTROSQL.Hospital"
+  DTS:DTSID="{E58D6C35-F58E-4772-95B1-003A0899A09F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-21RFT4C\DDMYTROSQL;Initial Catalog=Hospital;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Hospital Integration Services Project-{E58D6C35-F58E-4772-95B1-003A0899A09F}DESKTOP-21RFT4C\DDMYTROSQL.Hospital;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
